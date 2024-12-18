@@ -1,0 +1,20 @@
+#container{
+  background-color: red;
+  height: 500px;
+  width: 800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: baseline;
+}
+#c1{
+  background-color: blue;
+  height: 50px;
+  width: 80px;
+}
+#c2{
+  background-color: yellow;
+  height: 50px;
+  width: 80px;
+}
